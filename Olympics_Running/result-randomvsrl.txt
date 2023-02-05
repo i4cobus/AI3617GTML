@@ -1,0 +1,1800 @@
+map2  |  step:320
+random agent score:100.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:0.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:1.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:1.0
+map4  |  step:200
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:2.0
+map3  |  step:148
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:3.0
+map4  |  step:163
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:4.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:4.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:4.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:4.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:5.0
+map3  |  step:353
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:6.0
+map1  |  step:69
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:7.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:7.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:8.0
+map8  |  step:325
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:9.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:9.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:9.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:9.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:9.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:9.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:9.0
+map2  |  step:366
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:10.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:10.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:11.0
+map1  |  step:75
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:12.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:12.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:12.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:12.0
+map8  |  step:149
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:13.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:13.0
+map9  |  step:360
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:14.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:15.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:15.0
+map2  |  step:323
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:16.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:16.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:16.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:16.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:17.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:18.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:18.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:19.0
+map2  |  step:139
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:20.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:20.0
+map1  |  step:69
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:21.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:22.0
+map8  |  step:113
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:23.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:23.0
+map4  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:24.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:25.0
+map1  |  step:69
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:26.0
+map8  |  step:137
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:27.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:28.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:29.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:29.0
+map3  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:1.0  |  rl agent win:29.0
+map4  |  step:186
+random agent score:0.0  |  rl agent score:100.0
+random agent win:1.0  |  rl agent win:30.0
+map9  |  step:253
+random agent score:100.0  |  rl agent score:0.0
+random agent win:2.0  |  rl agent win:30.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:2.0  |  rl agent win:30.0
+map8  |  step:126
+random agent score:0.0  |  rl agent score:100.0
+random agent win:2.0  |  rl agent win:31.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:2.0  |  rl agent win:31.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:2.0  |  rl agent win:32.0
+map1  |  step:69
+random agent score:0.0  |  rl agent score:100.0
+random agent win:2.0  |  rl agent win:33.0
+map9  |  step:111
+random agent score:0.0  |  rl agent score:100.0
+random agent win:2.0  |  rl agent win:34.0
+map3  |  step:81
+random agent score:0.0  |  rl agent score:100.0
+random agent win:2.0  |  rl agent win:35.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:2.0  |  rl agent win:35.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:2.0  |  rl agent win:35.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:2.0  |  rl agent win:35.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:2.0  |  rl agent win:35.0
+map9  |  step:111
+random agent score:0.0  |  rl agent score:100.0
+random agent win:2.0  |  rl agent win:36.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:2.0  |  rl agent win:37.0
+map9  |  step:111
+random agent score:0.0  |  rl agent score:100.0
+random agent win:2.0  |  rl agent win:38.0
+map4  |  step:180
+random agent score:0.0  |  rl agent score:100.0
+random agent win:2.0  |  rl agent win:39.0
+map4  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:2.0  |  rl agent win:40.0
+map9  |  step:150
+random agent score:100.0  |  rl agent score:0.0
+random agent win:3.0  |  rl agent win:40.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:3.0  |  rl agent win:41.0
+map8  |  step:168
+random agent score:0.0  |  rl agent score:100.0
+random agent win:3.0  |  rl agent win:42.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:3.0  |  rl agent win:42.0
+map9  |  step:340
+random agent score:0.0  |  rl agent score:100.0
+random agent win:3.0  |  rl agent win:43.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:3.0  |  rl agent win:43.0
+map9  |  step:111
+random agent score:0.0  |  rl agent score:100.0
+random agent win:3.0  |  rl agent win:44.0
+map4  |  step:163
+random agent score:0.0  |  rl agent score:100.0
+random agent win:3.0  |  rl agent win:45.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:3.0  |  rl agent win:45.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:3.0  |  rl agent win:46.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:3.0  |  rl agent win:46.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:3.0  |  rl agent win:46.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:3.0  |  rl agent win:46.0
+map3  |  step:77
+random agent score:100.0  |  rl agent score:0.0
+random agent win:4.0  |  rl agent win:46.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:4.0  |  rl agent win:47.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:4.0  |  rl agent win:48.0
+map4  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:4.0  |  rl agent win:49.0
+map4  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:4.0  |  rl agent win:50.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:4.0  |  rl agent win:51.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:4.0  |  rl agent win:51.0
+map9  |  step:397
+random agent score:0.0  |  rl agent score:100.0
+random agent win:4.0  |  rl agent win:52.0
+map3  |  step:267
+random agent score:100.0  |  rl agent score:0.0
+random agent win:5.0  |  rl agent win:52.0
+map9  |  step:173
+random agent score:100.0  |  rl agent score:0.0
+random agent win:6.0  |  rl agent win:52.0
+map9  |  step:185
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:53.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:54.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:6.0  |  rl agent win:54.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:6.0  |  rl agent win:54.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:55.0
+map9  |  step:100
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:56.0
+map9  |  step:96
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:57.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:6.0  |  rl agent win:57.0
+map8  |  step:113
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:58.0
+map9  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:6.0  |  rl agent win:58.0
+map9  |  step:205
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:59.0
+map8  |  step:362
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:60.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:61.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:6.0  |  rl agent win:61.0
+map2  |  step:188
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:62.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:6.0  |  rl agent win:62.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:6.0  |  rl agent win:62.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:63.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:6.0  |  rl agent win:63.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:64.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:65.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:66.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:6.0  |  rl agent win:66.0
+map8  |  step:120
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:67.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:6.0  |  rl agent win:67.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:6.0  |  rl agent win:67.0
+map3  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:6.0  |  rl agent win:67.0
+map4  |  step:163
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:68.0
+map1  |  step:80
+random agent score:0.0  |  rl agent score:100.0
+random agent win:6.0  |  rl agent win:69.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:6.0  |  rl agent win:69.0
+map3  |  step:148
+random agent score:100.0  |  rl agent score:0.0
+random agent win:7.0  |  rl agent win:69.0
+map5  |  step:257
+random agent score:100.0  |  rl agent score:0.0
+random agent win:8.0  |  rl agent win:69.0
+map2  |  step:132
+random agent score:0.0  |  rl agent score:100.0
+random agent win:8.0  |  rl agent win:70.0
+map2  |  step:189
+random agent score:0.0  |  rl agent score:100.0
+random agent win:8.0  |  rl agent win:71.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:8.0  |  rl agent win:71.0
+map4  |  step:334
+random agent score:0.0  |  rl agent score:100.0
+random agent win:8.0  |  rl agent win:72.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:8.0  |  rl agent win:72.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:8.0  |  rl agent win:72.0
+map4  |  step:167
+random agent score:0.0  |  rl agent score:100.0
+random agent win:8.0  |  rl agent win:73.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:8.0  |  rl agent win:73.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:8.0  |  rl agent win:73.0
+map8  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:8.0  |  rl agent win:73.0
+map4  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:8.0  |  rl agent win:74.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:8.0  |  rl agent win:74.0
+map1  |  step:69
+random agent score:0.0  |  rl agent score:100.0
+random agent win:8.0  |  rl agent win:75.0
+map8  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:8.0  |  rl agent win:75.0
+map3  |  step:441
+random agent score:0.0  |  rl agent score:100.0
+random agent win:8.0  |  rl agent win:76.0
+map1  |  step:190
+random agent score:0.0  |  rl agent score:100.0
+random agent win:8.0  |  rl agent win:77.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:8.0  |  rl agent win:78.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:8.0  |  rl agent win:78.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:8.0  |  rl agent win:78.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:8.0  |  rl agent win:78.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:8.0  |  rl agent win:79.0
+map2  |  step:317
+random agent score:0.0  |  rl agent score:100.0
+random agent win:8.0  |  rl agent win:80.0
+map2  |  step:175
+random agent score:100.0  |  rl agent score:0.0
+random agent win:9.0  |  rl agent win:80.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:9.0  |  rl agent win:80.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:9.0  |  rl agent win:80.0
+map2  |  step:160
+random agent score:0.0  |  rl agent score:100.0
+random agent win:9.0  |  rl agent win:81.0
+map8  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:9.0  |  rl agent win:81.0
+map2  |  step:118
+random agent score:0.0  |  rl agent score:100.0
+random agent win:9.0  |  rl agent win:82.0
+map4  |  step:163
+random agent score:0.0  |  rl agent score:100.0
+random agent win:9.0  |  rl agent win:83.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:9.0  |  rl agent win:83.0
+map4  |  step:163
+random agent score:0.0  |  rl agent score:100.0
+random agent win:9.0  |  rl agent win:84.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:9.0  |  rl agent win:84.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:9.0  |  rl agent win:84.0
+map3  |  step:281
+random agent score:0.0  |  rl agent score:100.0
+random agent win:9.0  |  rl agent win:85.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:9.0  |  rl agent win:85.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:9.0  |  rl agent win:86.0
+map9  |  step:144
+random agent score:100.0  |  rl agent score:0.0
+random agent win:10.0  |  rl agent win:86.0
+map9  |  step:111
+random agent score:0.0  |  rl agent score:100.0
+random agent win:10.0  |  rl agent win:87.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:10.0  |  rl agent win:88.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:10.0  |  rl agent win:89.0
+map3  |  step:104
+random agent score:100.0  |  rl agent score:0.0
+random agent win:11.0  |  rl agent win:89.0
+map5  |  step:182
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:90.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:11.0  |  rl agent win:90.0
+map2  |  step:143
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:91.0
+map4  |  step:158
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:92.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:93.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:94.0
+map3  |  step:84
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:95.0
+map1  |  step:69
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:96.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:11.0  |  rl agent win:96.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:11.0  |  rl agent win:96.0
+map1  |  step:219
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:97.0
+map4  |  step:169
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:98.0
+map2  |  step:305
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:99.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:11.0  |  rl agent win:99.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:100.0
+map2  |  step:294
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:101.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:11.0  |  rl agent win:101.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:11.0  |  rl agent win:101.0
+map1  |  step:67
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:102.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:11.0  |  rl agent win:102.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:11.0  |  rl agent win:102.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:11.0  |  rl agent win:102.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:103.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:104.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:11.0  |  rl agent win:104.0
+map3  |  step:175
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:105.0
+map4  |  step:163
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:106.0
+map9  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:11.0  |  rl agent win:106.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:11.0  |  rl agent win:106.0
+map9  |  step:499
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:107.0
+map9  |  step:231
+random agent score:0.0  |  rl agent score:100.0
+random agent win:11.0  |  rl agent win:108.0
+map3  |  step:99
+random agent score:100.0  |  rl agent score:0.0
+random agent win:12.0  |  rl agent win:108.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:12.0  |  rl agent win:109.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:12.0  |  rl agent win:110.0
+map4  |  step:166
+random agent score:0.0  |  rl agent score:100.0
+random agent win:12.0  |  rl agent win:111.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:12.0  |  rl agent win:111.0
+map3  |  step:314
+random agent score:0.0  |  rl agent score:100.0
+random agent win:12.0  |  rl agent win:112.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:12.0  |  rl agent win:112.0
+map4  |  step:266
+random agent score:0.0  |  rl agent score:100.0
+random agent win:12.0  |  rl agent win:113.0
+map9  |  step:135
+random agent score:100.0  |  rl agent score:0.0
+random agent win:13.0  |  rl agent win:113.0
+map5  |  step:275
+random agent score:0.0  |  rl agent score:100.0
+random agent win:13.0  |  rl agent win:114.0
+map8  |  step:118
+random agent score:0.0  |  rl agent score:100.0
+random agent win:13.0  |  rl agent win:115.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:13.0  |  rl agent win:116.0
+map6  |  step:339
+random agent score:0.0  |  rl agent score:100.0
+random agent win:13.0  |  rl agent win:117.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:13.0  |  rl agent win:117.0
+map5  |  step:288
+random agent score:0.0  |  rl agent score:100.0
+random agent win:13.0  |  rl agent win:118.0
+map9  |  step:96
+random agent score:0.0  |  rl agent score:100.0
+random agent win:13.0  |  rl agent win:119.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:13.0  |  rl agent win:120.0
+map4  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:13.0  |  rl agent win:121.0
+map1  |  step:74
+random agent score:0.0  |  rl agent score:100.0
+random agent win:13.0  |  rl agent win:122.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:13.0  |  rl agent win:123.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:13.0  |  rl agent win:123.0
+map9  |  step:492
+random agent score:0.0  |  rl agent score:100.0
+random agent win:13.0  |  rl agent win:124.0
+map5  |  step:443
+random agent score:100.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:124.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:124.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:124.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:124.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:125.0
+map9  |  step:111
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:126.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:126.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:127.0
+map8  |  step:378
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:128.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:129.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:129.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:129.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:129.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:129.0
+map10  |  step:384
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:130.0
+map4  |  step:169
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:131.0
+map1  |  step:69
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:132.0
+map9  |  step:96
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:133.0
+map1  |  step:69
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:134.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:135.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:135.0
+map2  |  step:242
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:136.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:137.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:137.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:137.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:137.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:138.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:139.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:140.0
+map9  |  step:171
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:141.0
+map4  |  step:168
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:142.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:142.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:142.0
+map3  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:142.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:143.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:143.0
+map4  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:144.0
+map8  |  step:393
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:145.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:145.0
+map4  |  step:161
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:146.0
+map8  |  step:127
+random agent score:0.0  |  rl agent score:100.0
+random agent win:14.0  |  rl agent win:147.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:147.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:14.0  |  rl agent win:147.0
+map5  |  step:299
+random agent score:100.0  |  rl agent score:0.0
+random agent win:15.0  |  rl agent win:147.0
+map4  |  step:347
+random agent score:100.0  |  rl agent score:0.0
+random agent win:16.0  |  rl agent win:147.0
+map4  |  step:160
+random agent score:0.0  |  rl agent score:100.0
+random agent win:16.0  |  rl agent win:148.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:16.0  |  rl agent win:148.0
+map3  |  step:123
+random agent score:100.0  |  rl agent score:0.0
+random agent win:17.0  |  rl agent win:148.0
+map8  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:17.0  |  rl agent win:148.0
+map6  |  step:255
+random agent score:0.0  |  rl agent score:100.0
+random agent win:17.0  |  rl agent win:149.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:17.0  |  rl agent win:150.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:17.0  |  rl agent win:150.0
+map4  |  step:157
+random agent score:0.0  |  rl agent score:100.0
+random agent win:17.0  |  rl agent win:151.0
+map1  |  step:216
+random agent score:0.0  |  rl agent score:100.0
+random agent win:17.0  |  rl agent win:152.0
+map9  |  step:405
+random agent score:0.0  |  rl agent score:100.0
+random agent win:17.0  |  rl agent win:153.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:17.0  |  rl agent win:153.0
+map2  |  step:145
+random agent score:0.0  |  rl agent score:100.0
+random agent win:17.0  |  rl agent win:154.0
+map5  |  step:366
+random agent score:100.0  |  rl agent score:0.0
+random agent win:18.0  |  rl agent win:154.0
+map9  |  step:96
+random agent score:0.0  |  rl agent score:100.0
+random agent win:18.0  |  rl agent win:155.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:18.0  |  rl agent win:155.0
+map2  |  step:143
+random agent score:0.0  |  rl agent score:100.0
+random agent win:18.0  |  rl agent win:156.0
+map9  |  step:167
+random agent score:100.0  |  rl agent score:0.0
+random agent win:19.0  |  rl agent win:156.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:19.0  |  rl agent win:157.0
+map3  |  step:204
+random agent score:100.0  |  rl agent score:0.0
+random agent win:20.0  |  rl agent win:157.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:20.0  |  rl agent win:157.0
+map4  |  step:249
+random agent score:0.0  |  rl agent score:100.0
+random agent win:20.0  |  rl agent win:158.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:20.0  |  rl agent win:159.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:20.0  |  rl agent win:159.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:20.0  |  rl agent win:160.0
+map2  |  step:275
+random agent score:0.0  |  rl agent score:100.0
+random agent win:20.0  |  rl agent win:161.0
+map2  |  step:325
+random agent score:0.0  |  rl agent score:100.0
+random agent win:20.0  |  rl agent win:162.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:20.0  |  rl agent win:163.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:20.0  |  rl agent win:164.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:20.0  |  rl agent win:164.0
+map2  |  step:407
+random agent score:0.0  |  rl agent score:100.0
+random agent win:20.0  |  rl agent win:165.0
+map8  |  step:129
+random agent score:0.0  |  rl agent score:100.0
+random agent win:20.0  |  rl agent win:166.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:20.0  |  rl agent win:166.0
+map4  |  step:394
+random agent score:0.0  |  rl agent score:100.0
+random agent win:20.0  |  rl agent win:167.0
+map3  |  step:263
+random agent score:0.0  |  rl agent score:100.0
+random agent win:20.0  |  rl agent win:168.0
+map2  |  step:347
+random agent score:0.0  |  rl agent score:100.0
+random agent win:20.0  |  rl agent win:169.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:20.0  |  rl agent win:169.0
+map5  |  step:166
+random agent score:100.0  |  rl agent score:0.0
+random agent win:21.0  |  rl agent win:169.0
+map2  |  step:166
+random agent score:0.0  |  rl agent score:100.0
+random agent win:21.0  |  rl agent win:170.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:21.0  |  rl agent win:170.0
+map8  |  step:139
+random agent score:0.0  |  rl agent score:100.0
+random agent win:21.0  |  rl agent win:171.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:21.0  |  rl agent win:171.0
+map3  |  step:226
+random agent score:0.0  |  rl agent score:100.0
+random agent win:21.0  |  rl agent win:172.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:21.0  |  rl agent win:172.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:21.0  |  rl agent win:172.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:21.0  |  rl agent win:172.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:21.0  |  rl agent win:172.0
+map10  |  step:429
+random agent score:100.0  |  rl agent score:0.0
+random agent win:22.0  |  rl agent win:172.0
+map8  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:22.0  |  rl agent win:172.0
+map2  |  step:146
+random agent score:0.0  |  rl agent score:100.0
+random agent win:22.0  |  rl agent win:173.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:22.0  |  rl agent win:174.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:22.0  |  rl agent win:174.0
+map9  |  step:96
+random agent score:0.0  |  rl agent score:100.0
+random agent win:22.0  |  rl agent win:175.0
+map9  |  step:139
+random agent score:100.0  |  rl agent score:0.0
+random agent win:23.0  |  rl agent win:175.0
+map4  |  step:154
+random agent score:0.0  |  rl agent score:100.0
+random agent win:23.0  |  rl agent win:176.0
+map3  |  step:179
+random agent score:0.0  |  rl agent score:100.0
+random agent win:23.0  |  rl agent win:177.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:23.0  |  rl agent win:178.0
+map8  |  step:120
+random agent score:0.0  |  rl agent score:100.0
+random agent win:23.0  |  rl agent win:179.0
+map8  |  step:112
+random agent score:0.0  |  rl agent score:100.0
+random agent win:23.0  |  rl agent win:180.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:23.0  |  rl agent win:181.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:23.0  |  rl agent win:181.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:23.0  |  rl agent win:181.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:23.0  |  rl agent win:181.0
+map9  |  step:111
+random agent score:0.0  |  rl agent score:100.0
+random agent win:23.0  |  rl agent win:182.0
+map9  |  step:195
+random agent score:0.0  |  rl agent score:100.0
+random agent win:23.0  |  rl agent win:183.0
+map2  |  step:209
+random agent score:0.0  |  rl agent score:100.0
+random agent win:23.0  |  rl agent win:184.0
+map8  |  step:119
+random agent score:0.0  |  rl agent score:100.0
+random agent win:23.0  |  rl agent win:185.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:23.0  |  rl agent win:186.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:23.0  |  rl agent win:186.0
+map3  |  step:81
+random agent score:0.0  |  rl agent score:100.0
+random agent win:23.0  |  rl agent win:187.0
+map3  |  step:117
+random agent score:0.0  |  rl agent score:100.0
+random agent win:23.0  |  rl agent win:188.0
+map2  |  step:425
+random agent score:100.0  |  rl agent score:0.0
+random agent win:24.0  |  rl agent win:188.0
+map4  |  step:226
+random agent score:0.0  |  rl agent score:100.0
+random agent win:24.0  |  rl agent win:189.0
+map4  |  step:157
+random agent score:0.0  |  rl agent score:100.0
+random agent win:24.0  |  rl agent win:190.0
+map8  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:24.0  |  rl agent win:190.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:24.0  |  rl agent win:191.0
+map2  |  step:428
+random agent score:0.0  |  rl agent score:100.0
+random agent win:24.0  |  rl agent win:192.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:24.0  |  rl agent win:193.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:24.0  |  rl agent win:193.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:24.0  |  rl agent win:193.0
+map9  |  step:111
+random agent score:0.0  |  rl agent score:100.0
+random agent win:24.0  |  rl agent win:194.0
+map8  |  step:129
+random agent score:0.0  |  rl agent score:100.0
+random agent win:24.0  |  rl agent win:195.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:24.0  |  rl agent win:195.0
+map4  |  step:153
+random agent score:0.0  |  rl agent score:100.0
+random agent win:24.0  |  rl agent win:196.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:24.0  |  rl agent win:196.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:24.0  |  rl agent win:197.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:24.0  |  rl agent win:197.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:24.0  |  rl agent win:197.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:24.0  |  rl agent win:197.0
+map5  |  step:385
+random agent score:100.0  |  rl agent score:0.0
+random agent win:25.0  |  rl agent win:197.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:25.0  |  rl agent win:197.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:25.0  |  rl agent win:198.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:25.0  |  rl agent win:199.0
+map1  |  step:66
+random agent score:0.0  |  rl agent score:100.0
+random agent win:25.0  |  rl agent win:200.0
+map8  |  step:408
+random agent score:100.0  |  rl agent score:0.0
+random agent win:26.0  |  rl agent win:200.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:26.0  |  rl agent win:200.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:26.0  |  rl agent win:200.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:26.0  |  rl agent win:200.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:26.0  |  rl agent win:200.0
+map4  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:26.0  |  rl agent win:200.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:26.0  |  rl agent win:201.0
+map9  |  step:255
+random agent score:0.0  |  rl agent score:100.0
+random agent win:26.0  |  rl agent win:202.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:26.0  |  rl agent win:202.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:26.0  |  rl agent win:202.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:26.0  |  rl agent win:203.0
+map2  |  step:289
+random agent score:100.0  |  rl agent score:0.0
+random agent win:27.0  |  rl agent win:203.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:27.0  |  rl agent win:204.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:27.0  |  rl agent win:204.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:27.0  |  rl agent win:205.0
+map1  |  step:128
+random agent score:0.0  |  rl agent score:100.0
+random agent win:27.0  |  rl agent win:206.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:27.0  |  rl agent win:207.0
+map8  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:27.0  |  rl agent win:207.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:27.0  |  rl agent win:207.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:27.0  |  rl agent win:208.0
+map2  |  step:125
+random agent score:0.0  |  rl agent score:100.0
+random agent win:27.0  |  rl agent win:209.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:27.0  |  rl agent win:209.0
+map8  |  step:141
+random agent score:0.0  |  rl agent score:100.0
+random agent win:27.0  |  rl agent win:210.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:27.0  |  rl agent win:210.0
+map4  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:27.0  |  rl agent win:211.0
+map8  |  step:121
+random agent score:0.0  |  rl agent score:100.0
+random agent win:27.0  |  rl agent win:212.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:27.0  |  rl agent win:212.0
+map1  |  step:199
+random agent score:0.0  |  rl agent score:100.0
+random agent win:27.0  |  rl agent win:213.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:27.0  |  rl agent win:213.0
+map5  |  step:400
+random agent score:0.0  |  rl agent score:100.0
+random agent win:27.0  |  rl agent win:214.0
+map8  |  step:189
+random agent score:100.0  |  rl agent score:0.0
+random agent win:28.0  |  rl agent win:214.0
+map4  |  step:169
+random agent score:0.0  |  rl agent score:100.0
+random agent win:28.0  |  rl agent win:215.0
+map9  |  step:495
+random agent score:0.0  |  rl agent score:100.0
+random agent win:28.0  |  rl agent win:216.0
+map9  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:28.0  |  rl agent win:216.0
+map4  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:28.0  |  rl agent win:217.0
+map1  |  step:72
+random agent score:0.0  |  rl agent score:100.0
+random agent win:28.0  |  rl agent win:218.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:28.0  |  rl agent win:219.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:28.0  |  rl agent win:220.0
+map8  |  step:393
+random agent score:0.0  |  rl agent score:100.0
+random agent win:28.0  |  rl agent win:221.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:28.0  |  rl agent win:221.0
+map2  |  step:224
+random agent score:100.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:221.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:221.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:221.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:221.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:221.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:29.0  |  rl agent win:222.0
+map3  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:222.0
+map8  |  step:337
+random agent score:0.0  |  rl agent score:100.0
+random agent win:29.0  |  rl agent win:223.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:223.0
+map9  |  step:96
+random agent score:0.0  |  rl agent score:100.0
+random agent win:29.0  |  rl agent win:224.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:224.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:224.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:224.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:224.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:224.0
+map5  |  step:340
+random agent score:0.0  |  rl agent score:100.0
+random agent win:29.0  |  rl agent win:225.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:225.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:225.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:225.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:29.0  |  rl agent win:225.0
+map4  |  step:162
+random agent score:0.0  |  rl agent score:100.0
+random agent win:29.0  |  rl agent win:226.0
+map2  |  step:242
+random agent score:100.0  |  rl agent score:0.0
+random agent win:30.0  |  rl agent win:226.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:30.0  |  rl agent win:226.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:30.0  |  rl agent win:227.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:30.0  |  rl agent win:227.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:30.0  |  rl agent win:228.0
+map3  |  step:245
+random agent score:0.0  |  rl agent score:100.0
+random agent win:30.0  |  rl agent win:229.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:30.0  |  rl agent win:229.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:30.0  |  rl agent win:229.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:30.0  |  rl agent win:229.0
+map8  |  step:221
+random agent score:100.0  |  rl agent score:0.0
+random agent win:31.0  |  rl agent win:229.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:31.0  |  rl agent win:229.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:31.0  |  rl agent win:229.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:31.0  |  rl agent win:229.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:31.0  |  rl agent win:229.0
+map8  |  step:132
+random agent score:0.0  |  rl agent score:100.0
+random agent win:31.0  |  rl agent win:230.0
+map1  |  step:84
+random agent score:0.0  |  rl agent score:100.0
+random agent win:31.0  |  rl agent win:231.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:31.0  |  rl agent win:231.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:31.0  |  rl agent win:232.0
+map3  |  step:85
+random agent score:100.0  |  rl agent score:0.0
+random agent win:32.0  |  rl agent win:232.0
+map9  |  step:150
+random agent score:100.0  |  rl agent score:0.0
+random agent win:33.0  |  rl agent win:232.0
+map1  |  step:99
+random agent score:100.0  |  rl agent score:0.0
+random agent win:34.0  |  rl agent win:232.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:34.0  |  rl agent win:232.0
+map8  |  step:132
+random agent score:0.0  |  rl agent score:100.0
+random agent win:34.0  |  rl agent win:233.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:34.0  |  rl agent win:233.0
+map3  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:34.0  |  rl agent win:233.0
+map4  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:34.0  |  rl agent win:234.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:34.0  |  rl agent win:235.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:34.0  |  rl agent win:235.0
+map2  |  step:414
+random agent score:0.0  |  rl agent score:100.0
+random agent win:34.0  |  rl agent win:236.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:34.0  |  rl agent win:236.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:34.0  |  rl agent win:237.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:34.0  |  rl agent win:237.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:34.0  |  rl agent win:237.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:34.0  |  rl agent win:237.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:34.0  |  rl agent win:238.0
+map3  |  step:81
+random agent score:100.0  |  rl agent score:0.0
+random agent win:35.0  |  rl agent win:238.0
+map4  |  step:274
+random agent score:0.0  |  rl agent score:100.0
+random agent win:35.0  |  rl agent win:239.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:35.0  |  rl agent win:239.0
+map9  |  step:405
+random agent score:0.0  |  rl agent score:100.0
+random agent win:35.0  |  rl agent win:240.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:35.0  |  rl agent win:240.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:35.0  |  rl agent win:241.0
+map8  |  step:193
+random agent score:0.0  |  rl agent score:100.0
+random agent win:35.0  |  rl agent win:242.0
+map1  |  step:69
+random agent score:0.0  |  rl agent score:100.0
+random agent win:35.0  |  rl agent win:243.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:35.0  |  rl agent win:243.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:35.0  |  rl agent win:243.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:35.0  |  rl agent win:243.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:35.0  |  rl agent win:243.0
+map1  |  step:73
+random agent score:0.0  |  rl agent score:100.0
+random agent win:35.0  |  rl agent win:244.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:35.0  |  rl agent win:244.0
+map1  |  step:88
+random agent score:100.0  |  rl agent score:0.0
+random agent win:36.0  |  rl agent win:244.0
+map4  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:36.0  |  rl agent win:245.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:36.0  |  rl agent win:245.0
+map1  |  step:70
+random agent score:0.0  |  rl agent score:100.0
+random agent win:36.0  |  rl agent win:246.0
+map2  |  step:345
+random agent score:0.0  |  rl agent score:100.0
+random agent win:36.0  |  rl agent win:247.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:36.0  |  rl agent win:248.0
+map4  |  step:260
+random agent score:0.0  |  rl agent score:100.0
+random agent win:36.0  |  rl agent win:249.0
+map2  |  step:138
+random agent score:0.0  |  rl agent score:100.0
+random agent win:36.0  |  rl agent win:250.0
+map3  |  step:83
+random agent score:0.0  |  rl agent score:100.0
+random agent win:36.0  |  rl agent win:251.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:36.0  |  rl agent win:251.0
+map1  |  step:67
+random agent score:0.0  |  rl agent score:100.0
+random agent win:36.0  |  rl agent win:252.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:36.0  |  rl agent win:253.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:36.0  |  rl agent win:253.0
+map3  |  step:97
+random agent score:0.0  |  rl agent score:100.0
+random agent win:36.0  |  rl agent win:254.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:36.0  |  rl agent win:254.0
+map2  |  step:431
+random agent score:100.0  |  rl agent score:0.0
+random agent win:37.0  |  rl agent win:254.0
+map4  |  step:163
+random agent score:0.0  |  rl agent score:100.0
+random agent win:37.0  |  rl agent win:255.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:37.0  |  rl agent win:256.0
+map2  |  step:293
+random agent score:0.0  |  rl agent score:100.0
+random agent win:37.0  |  rl agent win:257.0
+map5  |  step:181
+random agent score:0.0  |  rl agent score:100.0
+random agent win:37.0  |  rl agent win:258.0
+map9  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:37.0  |  rl agent win:259.0
+map3  |  step:292
+random agent score:0.0  |  rl agent score:100.0
+random agent win:37.0  |  rl agent win:260.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:37.0  |  rl agent win:261.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:37.0  |  rl agent win:261.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:37.0  |  rl agent win:261.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:37.0  |  rl agent win:262.0
+map8  |  step:320
+random agent score:0.0  |  rl agent score:100.0
+random agent win:37.0  |  rl agent win:263.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:37.0  |  rl agent win:263.0
+map4  |  step:163
+random agent score:0.0  |  rl agent score:100.0
+random agent win:37.0  |  rl agent win:264.0
+map4  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:37.0  |  rl agent win:264.0
+map8  |  step:143
+random agent score:0.0  |  rl agent score:100.0
+random agent win:37.0  |  rl agent win:265.0
+map4  |  step:157
+random agent score:0.0  |  rl agent score:100.0
+random agent win:37.0  |  rl agent win:266.0
+map2  |  step:301
+random agent score:100.0  |  rl agent score:0.0
+random agent win:38.0  |  rl agent win:266.0
+map4  |  step:166
+random agent score:0.0  |  rl agent score:100.0
+random agent win:38.0  |  rl agent win:267.0
+map3  |  step:94
+random agent score:100.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:267.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:267.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:267.0
+map8  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:267.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:267.0
+map4  |  step:168
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:268.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:268.0
+map3  |  step:96
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:269.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:269.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:270.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:270.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:270.0
+map6  |  step:226
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:271.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:271.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:272.0
+map9  |  step:98
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:273.0
+map4  |  step:202
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:274.0
+map3  |  step:107
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:275.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:276.0
+map4  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:277.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:277.0
+map3  |  step:82
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:278.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:278.0
+map2  |  step:259
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:279.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:279.0
+map9  |  step:471
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:280.0
+map4  |  step:163
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:281.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:281.0
+map8  |  step:127
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:282.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:282.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:282.0
+map2  |  step:222
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:283.0
+map9  |  step:155
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:284.0
+map2  |  step:365
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:285.0
+map4  |  step:165
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:286.0
+map2  |  step:247
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:287.0
+map3  |  step:463
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:288.0
+map5  |  step:368
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:289.0
+map8  |  step:185
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:290.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:291.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:291.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:291.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:291.0
+map2  |  step:362
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:292.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:292.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:292.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:293.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:293.0
+map3  |  step:279
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:294.0
+map11  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:294.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:294.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:295.0
+map4  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:296.0
+map3  |  step:475
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:297.0
+map8  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:297.0
+map8  |  step:114
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:298.0
+map4  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:299.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:300.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:300.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:301.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:302.0
+map9  |  step:111
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:303.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:303.0
+map9  |  step:111
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:304.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:304.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:304.0
+map2  |  step:403
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:305.0
+map8  |  step:144
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:306.0
+map8  |  step:113
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:307.0
+map1  |  step:74
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:308.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:309.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:310.0
+map8  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:310.0
+map5  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:39.0  |  rl agent win:310.0
+map4  |  step:172
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:311.0
+map3  |  step:117
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:312.0
+map1  |  step:194
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:313.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:39.0  |  rl agent win:314.0
+map3  |  step:393
+random agent score:100.0  |  rl agent score:0.0
+random agent win:40.0  |  rl agent win:314.0
+map1  |  step:75
+random agent score:0.0  |  rl agent score:100.0
+random agent win:40.0  |  rl agent win:315.0
+map8  |  step:121
+random agent score:0.0  |  rl agent score:100.0
+random agent win:40.0  |  rl agent win:316.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:40.0  |  rl agent win:316.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:40.0  |  rl agent win:316.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:40.0  |  rl agent win:316.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:40.0  |  rl agent win:316.0
+map1  |  step:66
+random agent score:0.0  |  rl agent score:100.0
+random agent win:40.0  |  rl agent win:317.0
+map4  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:40.0  |  rl agent win:317.0
+map8  |  step:364
+random agent score:0.0  |  rl agent score:100.0
+random agent win:40.0  |  rl agent win:318.0
+map2  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:40.0  |  rl agent win:318.0
+map1  |  step:65
+random agent score:0.0  |  rl agent score:100.0
+random agent win:40.0  |  rl agent win:319.0
+map10  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:40.0  |  rl agent win:319.0
+map6  |  step:499
+random agent score:0.0  |  rl agent score:0.0
+random agent win:40.0  |  rl agent win:319.0
+map8  |  step:159
+random agent score:0.0  |  rl agent score:100.0
+random agent win:40.0  |  rl agent win:320.0
+map3  |  step:448
+random agent score:100.0  |  rl agent score:0.0
+random agent win:41.0  |  rl agent win:320.0
+map4  |  step:152
+random agent score:0.0  |  rl agent score:100.0
+random agent win:41.0  |  rl agent win:321.0
+map7  |  step:71
+random agent score:0.0  |  rl agent score:100.0
+random agent win:41.0  |  rl agent win:322.0
